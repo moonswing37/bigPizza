@@ -1,0 +1,11 @@
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+.pizza{
+
+}
+.orange{
+border: 5px solid orange;
+}
